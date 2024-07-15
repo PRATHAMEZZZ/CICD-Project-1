@@ -72,7 +72,7 @@ export default function RecordList() {
 
     return (
         <div>
-            <h3 className="ps-2">Record List</h3>
+            <h3 className="ps-2">Record Lists</h3>
             <table className="table table-striped" style={{ marginTop: 20 }}>
                 <thead>
                     <tr>
