@@ -28,7 +28,7 @@ export default function Navbar() {
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item">
                             <NavLink className="nav-link" to="/create">
-                                Create Records
+                                Create Record
                             </NavLink>
                         </li>
                     </ul>
